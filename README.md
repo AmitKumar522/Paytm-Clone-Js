@@ -25,7 +25,7 @@
 ![](./images-01/Screenshot%202022-08-18%20103931.jpg)
 
 
-## Badge ##
+## Badge #
 
 ![Badge](https://img.shields.io/badge/Paytm---Clone-orange)![](https://img.shields.io/badge/TAIL---WIND-orange)
 
